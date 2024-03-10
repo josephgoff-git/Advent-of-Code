@@ -1,9 +1,9 @@
 # import openai
 # import re
 
-key = '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'
+key = ''
 # openai.api_key = key
-# openai.api_key = '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'
+# openai.api_key = ''
 
 # def read_file(file_path):
 #     with open(file_path, 'r') as file:
